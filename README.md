@@ -10,12 +10,12 @@ Hello! My name is Giovanni. I was born in America, but raised in Brazil, where I
 
 ## This is what I've been up to
 
+![Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=microsoft%20azure&logoColor=white&labelColor=000&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=microsoft%20azure&logoColor=white&labelColor=000&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
 
 |My stats|Top Langs|
 |---|---|
