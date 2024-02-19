@@ -16,13 +16,6 @@ Hello! My name is Giovanni. I was born in America, but raised in Brazil, where I
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=white)
 
-## This is what I'm used to
-
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
-![Android](https://img.shields.io/badge/Android-000?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-
 |My stats|Top Langs|
 |---|---|
 |![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsscala&theme=transparent&bg_color=000&border_color=white&show_icons=true&icon_color=FFF&title_color=E94D5F&text_color=FFF&hide_title=true)|![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)|
