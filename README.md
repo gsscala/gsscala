@@ -15,6 +15,7 @@ Hello! My name is Giovanni. I was born in America, but raised in Brazil, where I
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=microsoft%20azure&logoColor=white&labelColor=000&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
 
 |My stats|Top Langs|
 |---|---|
