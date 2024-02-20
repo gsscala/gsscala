@@ -6,7 +6,7 @@ Hello! My name is Giovanni. I was born in America, but raised in Brazil, where I
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-santos-scalabrin-7b890b2b4/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gsscala/)
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/SEUUSERNAME)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/gsscala_)
 
 ## This is what I've been up to
 
