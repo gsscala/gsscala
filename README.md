@@ -11,9 +11,9 @@ Hello! My name is Giovanni. I was born in America, but raised in Brazil, where I
 ## This is what I've been up to
 
 ![Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=microsoft%20azure&logoColor=white&labelColor=000&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-000.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/react-000.svg?style=for-the-badge&logo=react&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
