@@ -8,4 +8,4 @@ Hello! My name is Giovanni. I'm a Computer Engineering student at UNICAMP (Unive
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gsscala/)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/gsscala_)
 
-![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsscala&show_icons=true&theme=transparent)
+![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsscala&show_icons=true&theme=dracula)
